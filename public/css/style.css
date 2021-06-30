@@ -40,3 +40,10 @@ input {
     padding: 8px;
 }
 
+button {
+    border: 1px solid #888888;
+    background-color: #888888;
+    cursor: pointer;
+    padding : 8px;
+    color: white;
+}
